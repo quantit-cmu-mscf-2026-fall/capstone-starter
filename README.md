@@ -6,9 +6,37 @@ Nothing here is a required part of the project. It is scaffolding you may keep,
 rewrite, or delete. If you replace all of it with something better, that is a
 good outcome — but you should not have to write a CSV parser to get started.
 
+This repository is the kit itself; the team works in **`cmu-mscf-2026`**, which
+starts as a copy of it.
+
 > **New to the project? Start with [`GETTING_STARTED.md`](GETTING_STARTED.md)** —
 > day one to your first merged PR, in order, including the parts that involve
 > waiting on someone else.
+
+## How we work here
+
+Review protects the code that runs. It is not a gate on thinking out loud —
+putting one there would only move the thinking somewhere nobody can see it.
+
+**Goes through a pull request**: code, tests, `deploy/strategies.yml`, and the
+docs describing how the code works. Green CI, one teammate's review, squash-merge.
+
+**Post it yourself — no PR, no review, no waiting on us**:
+
+| Where | For |
+|---|---|
+| [Issues → *Paper round*](../../issues/new/choose) | Your weekly one-pager, and the report-back a week later on the same issue |
+| [Issues → *Topic*](../../issues/new/choose) | A research direction the team is shaping. Edit each other's freely |
+| [Issues → *Work item*](../../issues/new/choose) | Something specific someone will do |
+| [Wiki](../../wiki) | Notes, references, derivations, write-ups |
+| [Discussions](../../discussions) | Questions and half-formed ideas |
+
+The topics and work items are the team's own map of this project — you write it,
+and you rewrite it as your understanding changes. Around week 2 your project
+proposal supersedes ours entirely.
+
+Full workflow, including what a reviewer is actually looking for:
+[`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## What is in here
 
