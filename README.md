@@ -28,7 +28,7 @@ docs describing how the code works. Green CI, one teammate's review, squash-merg
 | [Issues → *Paper round*](../../issues/new/choose) | Your weekly one-pager, and the report-back a week later on the same issue |
 | [Issues → *Topic*](../../issues/new/choose) | A research direction the team is shaping. Edit each other's freely |
 | [Issues → *Work item*](../../issues/new/choose) | Something specific someone will do |
-| [Wiki](../../wiki) | Notes, references, derivations, write-ups |
+| [Wiki](https://github.com/quantit-cmu-mscf-2026-fall/cmu-mscf-2026/wiki) | Notes, references, derivations, write-ups — lives on the team repo |
 | [Discussions](../../discussions) | Questions and half-formed ideas |
 
 The topics and work items are the team's own map of this project — you write it,
